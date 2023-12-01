@@ -35,6 +35,8 @@
   <img alt="robot-framework" src="https://img.shields.io/badge/robot-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
  
   <img alt="mocha" src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  
+  <img alt="codeceptjs" src="https://img.shields.io/badge/codeceptjs-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=white" />
 
   <img alt="testing-library" src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 
