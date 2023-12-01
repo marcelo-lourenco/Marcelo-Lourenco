@@ -9,6 +9,8 @@
   <img  alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 
   <img  alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <img alt="nodered" src="https://img.shields.io/badge/nodered-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
   
   <img  alt="node" src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
