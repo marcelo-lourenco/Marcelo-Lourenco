@@ -37,21 +37,17 @@
   <img alt="testing-library" src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
 
   <img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-
-
-  <!-- <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> -->
-</div><br/>
+  
+  <!-- <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> -->
+</div>
 
 ## GitHub Stats ⚡
 <div>
-
   <a href="https://github.com/Marcelo-Lourenco/">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Lourenco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Lourenco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   </a>
-
   <a href="https://github.com/Marcelo-Lourenco/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-Lourenco&theme=github_dark&layout=compact&langs_count=10&card_width=320" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-Lourenco&theme=github_dark&layout=compact&langs_count=10&card_width=320" />
   </a>
 </div>
 
