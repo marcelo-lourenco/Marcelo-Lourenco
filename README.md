@@ -47,11 +47,11 @@
 
 ## GitHub Stats ⚡
 <div>
-  <a href="https://github.com/Marcelo-Lourenco/">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Lourenco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/marcelo-lourenco/">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-lourenco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/Marcelo-Lourenco/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcelo-Lourenco&theme=github_dark&layout=compact&langs_count=10&card_width=320" />
+  <a href="https://github.com/marcelo-lourenco/convoychat">
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelo-lourenco&theme=github_dark&layout=compact&langs_count=10&card_width=320" />
   </a>
 </div>
 
