@@ -50,7 +50,7 @@
   <a href="https://github.com/marcelo-lourenco/">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-lourenco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/marcelo-lourenco/convoychat">
+  <a href="https://github.com/marcelo-lourenco/">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelo-lourenco&theme=github_dark&layout=compact&langs_count=10&card_width=320" />
   </a>
 </div>
