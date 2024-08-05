@@ -59,8 +59,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelolourencodasilva)
 
 ## Project 🏗
-[![Gerador de Dados](https://lh3.googleusercontent.com/V4J2t7KVuwE1zvGxSKmHdrP-G9Ay-Mlp56ggf0Ex-zRlE-AH415kplCmOhV0qEpT_S7bRKXSlnA5GsQfyze40X_EEQ=s275-w275-h175)](https://chromewebstore.google.com/detail/ipfihnddjaepajgdamecijfdefikdgam)
-
+[![Gerador de Dados](https://github.com/user-attachments/assets/159a29b9-862b-4bec-b635-9354c62d23b8)](https://chromewebstore.google.com/detail/ipfihnddjaepajgdamecijfdefikdgam)
 
 
 <!--
