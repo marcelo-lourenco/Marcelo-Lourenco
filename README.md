@@ -1,51 +1,48 @@
-### Hi there, I'm Marcelo! 👋
+Hi there, I'm Marcelo! 👋
 
-- Software Quality Engineer 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelolourencodasilva)
 
-## Skills 🚀
+## Skills
 
 <div style="display: inline">
    
-  <img  alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-
-  <img  alt="typescript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-  <img alt="nodered" src="https://img.shields.io/badge/nodered-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-  
-  <img  alt="node" src="https://img.shields.io/badge/node-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-
-  <img  alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <img  alt="ruby" src="https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-
-  <img  alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <img alt="oracle" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <img  alt="sqlserver" src="https://img.shields.io/badge/sql server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  
-  <img alt="cypress" src="https://img.shields.io/badge/cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-
-  <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  
-  <img  alt="selenium" src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  
-  <img alt="robot-framework" src="https://img.shields.io/badge/robot-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
- 
-  <img alt="mocha" src="https://img.shields.io/badge/mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-  
-  <img alt="codeceptjs" src="https://img.shields.io/badge/codeceptjs-F6E05E?style=for-the-badge&logo=codeceptjs&logoColor=white" />
-
-  <img alt="testing-library" src="https://img.shields.io/badge/testing library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-
-  <img alt="jupyter" src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  
-  <!-- <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Node-Red](https://img.shields.io/badge/NodeRed-8F0000?style=flat&logo=nodered&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-c12127?style=flat&logo=npm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=sqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/robot-000000?style=flat&logo=robotframework&logoColor=white)
+![mocha](https://img.shields.io/badge/mocha-8D6748?style=flat&logo=mocha&logoColor=00FF88)
+![Codecept js](https://img.shields.io/badge/Codeceptjs-F6E05E?style=flat&logo=codeceptjs&logoColor=black)
+![Testing Library](https://img.shields.io/badge/TestingLibrary-E33332?style=flat&logo=testinglibrary&logoColor=00FF88)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-ff6c37?style=flat&logo=postman&logoColor=white)
 </div>
 
-## GitHub Stats ⚡
+## My Projects
+
+[![Pacote Gerador](https://img.shields.io/badge/GeradorBR-c12127?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/gerador-br)
+[![Extenção Gerador](https://img.shields.io/badge/GeradorDeDadosFiftícios-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/ipfihnddjaepajgdamecijfdefikdgam)
+[![Extenção Boleto](https://img.shields.io/badge/ValidadorBoleto-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/occanfpdiglllenbekgbnhijeoincilf)
+[![Extenção Jira](https://img.shields.io/badge/JiraExpand-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/dlfdmghbdpojkioblkohjafoccdnponn)
+[![Conversor CNAB](https://img.shields.io/badge/CNABConverte-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/kfinkhckgepbndjcolgehfgomeiklffi)
+
+## GitHub Stats
 <div>
   <a href="https://github.com/marcelo-lourenco/">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-lourenco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
@@ -55,24 +52,6 @@
   </a>
 </div>
 
-## Reach me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelolourencodasilva)
+---
 
-## Project 🏗
-[![Gerador de Dados](https://github.com/user-attachments/assets/159a29b9-862b-4bec-b635-9354c62d23b8)](https://chromewebstore.google.com/detail/ipfihnddjaepajgdamecijfdefikdgam)
-
-
-<!--
-**Marcelo-Lourenco/Marcelo-Lourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=marcelo-lourenco)
