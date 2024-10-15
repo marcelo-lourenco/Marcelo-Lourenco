@@ -38,8 +38,8 @@ Hi there, I'm Marcelo! 👋
 
 [![Pacote Gerador](https://img.shields.io/badge/GeradorBR-c12127?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/gerador-br)
 [![Extenção Gerador](https://img.shields.io/badge/GeradorDeDadosFiftícios-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/ipfihnddjaepajgdamecijfdefikdgam)
-[![Extenção Boleto](https://img.shields.io/badge/ValidadorBoleto-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/occanfpdiglllenbekgbnhijeoincilf)
-[![Extenção Jira](https://img.shields.io/badge/JiraExpand-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/dlfdmghbdpojkioblkohjafoccdnponn)
+[![Extenção Boleto](https://img.shields.io/badge/ValidadorBoleto-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/dlfdmghbdpojkioblkohjafoccdnponn)
+[![Extenção Jira](https://img.shields.io/badge/JiraExpand-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/occanfpdiglllenbekgbnhijeoincilf)
 [![Conversor CNAB](https://img.shields.io/badge/CNABConverte-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/kfinkhckgepbndjcolgehfgomeiklffi)
 
 ## GitHub Stats
