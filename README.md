@@ -35,11 +35,11 @@ Hi there, I'm Marcelo! 👋
 
 ## My Projects
 
-[![Pacote Gerador](https://img.shields.io/badge/GeradorBR-c12127?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/gerador-br)
-[![Extenção Gerador](https://img.shields.io/badge/GeradorDeDadosFiftícios-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/ipfihnddjaepajgdamecijfdefikdgam)
-[![Extenção Boleto](https://img.shields.io/badge/ValidadorBoleto-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/dlfdmghbdpojkioblkohjafoccdnponn)
-[![Extenção Jira](https://img.shields.io/badge/JiraExpand-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/occanfpdiglllenbekgbnhijeoincilf)
-[![Conversor CNAB](https://img.shields.io/badge/CNABConverte-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/kfinkhckgepbndjcolgehfgomeiklffi)
+[![Pacote Gerador](https://img.shields.io/badge/Gerador%20BR-c12127?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/package/gerador-br)
+[![Extenção Gerador](https://img.shields.io/badge/Gerador%20de%20Dados%20Fiftícios-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/ipfihnddjaepajgdamecijfdefikdgam)
+[![Extenção Boleto](https://img.shields.io/badge/Validador%20de%20Boleto-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/dlfdmghbdpojkioblkohjafoccdnponn)
+[![Extenção Jira](https://img.shields.io/badge/Jira%20Expand-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/occanfpdiglllenbekgbnhijeoincilf)
+[![Conversor CNAB](https://img.shields.io/badge/CNAB%20Converte-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/kfinkhckgepbndjcolgehfgomeiklffi)
 [![API Test Builder](https://badgen.net/badge/%20/API%20Test%20Builder/007ACC?icon=visualstudio)](https://marketplace.visualstudio.com/items?itemName=mlourenco.api-test-builder)
 
 
