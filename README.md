@@ -40,6 +40,7 @@ Hi there, I'm Marcelo! 👋
 [![Extenção Boleto](https://img.shields.io/badge/ValidadorBoleto-0d6efd?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/dlfdmghbdpojkioblkohjafoccdnponn)
 [![Extenção Jira](https://img.shields.io/badge/JiraExpand-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/occanfpdiglllenbekgbnhijeoincilf)
 [![Conversor CNAB](https://img.shields.io/badge/CNABConverte-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/kfinkhckgepbndjcolgehfgomeiklffi)
+[![API Test Builder](https://img.shields.io/badge/APITestBuilder-0078d7?style=flat&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=mlourenco.api-test-builder)
 
 ## GitHub Stats
 <div>
