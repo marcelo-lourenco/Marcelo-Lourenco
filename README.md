@@ -32,6 +32,7 @@ Hi there, I'm Marcelo! 👋
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/postman-ff6c37?style=flat&logo=postman&logoColor=white)](#)
+[![Eleventy](https://img.shields.io/badge/Eleventy-000000?style=flat&logo=eleventy&logoColor=white)](#)
 
 ## My Projects
 
