@@ -19,6 +19,7 @@ Hi there, I'm Marcelo! 👋
 [![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=sqlserver&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](#)
+[![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=flat&logo=microsoft&logoColor=white)](#)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)](#)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](#)
