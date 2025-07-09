@@ -43,6 +43,7 @@ Hi there, I'm Marcelo! 👋
 [![Extenção Jira](https://img.shields.io/badge/Jira%20Expand-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/occanfpdiglllenbekgbnhijeoincilf)
 [![Conversor CNAB](https://img.shields.io/badge/CNAB%20Converte-0c66e4?style=flat&logo=chromewebstore&logoColor=white)](https://chromewebstore.google.com/detail/kfinkhckgepbndjcolgehfgomeiklffi)
 [![API Test Builder](https://badgen.net/badge/%20/API%20Test%20Builder/007ACC?icon=visualstudio)](https://marketplace.visualstudio.com/items?itemName=mlourenco.api-test-builder)
+[![Live API & URL Monitor](https://badgen.net/badge/%20/Live%20API%20&%20URL%20Monitor/007ACC?icon=visualstudio)](https://marketplace.visualstudio.com/items?itemName=mlourenco.live-api-url-monitor)
 
 
 ## GitHub Stats
